@@ -1,0 +1,209 @@
+*{
+padding: 0px ;
+margin:0px ;
+box-sizing: border-box;
+}
+
+
+.section-1{
+    padding: 100px 0px ;
+   
+}
+
+.container{
+    width: 1140px ;
+    margin: 0 auto;
+}
+
+.table-1{
+     width: 100%;
+     /* border-collapse: collapse;   */
+     border: 2px solid black;
+}
+
+
+
+
+.table, tr, th, td{
+border: 2px solid #fff;
+padding: 5px 0px ;
+}
+
+.dolor-1{
+background-color: #c1730c;
+border: 2px solid black  ;
+padding:10px 10px ;}
+.ssss{
+    border-bottom: 2px solid  #777474;
+    border-right: 2px solid  #777474;
+    border-left: 2px solid  #777474;
+    padding: 0px 10px ;
+}
+
+.kkk{
+    text-align: center;
+}
+
+.ddd{
+    background-color: #777474;
+    display: inline-block;
+    width: 45%;
+    height: 2px ;
+}
+
+.teb-1{
+    background-color: green;
+}
+
+input{
+    margin: 0px 5px ;}
+
+
+.pas-1{
+    background-color:brown;
+    font-weight:bold ;
+    font-size: 20px ;
+}
+
+.pan-1{
+    background-color: blue;
+    text-align: center;
+    font-weight:bold;
+    font-size: 20px ;
+}
+
+.td-1{
+    background-color: sandybrown;
+}
+
+
+.td-2{
+    background-color: sienna;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px ;}
+
+
+    .td-3{
+        background-color: limegreen;
+        font-weight: bold;
+    }
+    .td-4{
+        background-color: royalblue;
+        font-weight: bold;
+
+    }
+
+    .td-5{
+        background-color: blue;
+        font-weight: bold;
+        text-align: center;
+    }
+
+.td-6{
+    background-color: palegreen;
+    font-weight:bold ;
+}
+
+
+.td-7{
+    background-color: limegreen;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.td-8{
+    background-color: red;
+    text-align: center;
+    font:bold;
+}
+
+.bro{
+    padding: 40px 0px ;
+    width: 190%;
+}
+
+.ankar{
+   
+   
+text-align: center;
+
+    font-size: 20px ;
+    background-color: blue;
+  
+   
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: #fff;
+}
+
+
+
+.neb-1{
+    background-color: skyblue;
+}
+
+
+.neb-2{
+    background-color: #0be586;
+}
+
+.neb-3{ background-color: purple;}
+
+.neb-4{
+    background-color: yellow;
+}
+
+.neb-5{
+    background-color: lawngreen;
+}
+
+.neb-6{
+text-align: center;
+background-color:aqua ;
+}
+
+.neb-7{
+    background-color: red;
+    font-weight: bold;
+
+}
+
+
+.neb-8{
+    background-color: aqua;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.neb-9{
+    background-color: #eaea50;
+    font-weight: bold;
+}
+
+.neb-10{
+    background-color: #a4a40e;
+}
+
+
+.aamir{
+    vertical-align: sub;
+  
+
+}
+
+
+.sholis{
+    background-color: red;
+}
+
+
+
+
+
